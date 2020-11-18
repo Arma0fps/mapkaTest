@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="AFP">
+    <Package name="Scripts">
+        <Key ID="STR_AFP_Scripts_DisplayName">
+            <Polish>ArmaForces - Preset</Polish>
+        </Key>
+
+        <!-- MISSION -->
+        <Key ID="STR_AFP_Scripts_Mission_Author">
+            <English>ArmaForces</English>
+            <Polish>ArmaForces</Polish>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_Title">
+            <English>Preset</English>
+            <Polish>Preset</Polish>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_Description">
+            <English>This is not a regular mission. It only contains player units with appropriate setup and required modules.</English>
+            <Polish>To nie jest normalna misja. Zawiera tylko jednostki graczy ustawione w odpowiedni sposób oraz wymagane moduły.</Polish>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_ShortDescription">
+            <English>Mission contains basic units setup and modules.</English>
+            <Polish>Misja zawiera przygotowane jednostki i moduły.</Polish>
+        </Key>
+    </Package>
+</Project>
+
+<!--
+    Legacy stuff
+-->
+
+<Project name="ArmaForces">
+    <Package name="Preset">
+        <Key ID="STR_ArmaForces_Preset_DisplayName">
+            <English>ArmaForces - Preset</English>
+            <Polish>ArmaForces - Preset</Polish>
+        </Key>
+        <!-- COMMON -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_Close">
+            <Original>Close</Original>
+            <English>Close</English>
+            <Polish>Zamknij</Polish>
+        </Key>
+        <!-- GROUP RENAME -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_GroupRename_Rename">
+            <Original>Rename</Original>
+            <English>Rename</English>
+            <Polish>Zmień nazwę</Polish>
+        </Key>
+        <!-- VIEW DISTANCE -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_ViewDistance_Custom">
+            <Original>Custom</Original>
+            <English>Custom</English>
+            <Polish>Ustaw własną</Polish>
+        </Key>
+    </Package>
+</Project>
